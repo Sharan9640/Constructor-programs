@@ -7,6 +7,7 @@ public Student()
 	public static void student()
 	{
 		System.out.println("hello...!");
+		System.out.println("Hiii");
 	}
 	public static void main (String[]args)
 	{

@@ -1,6 +1,6 @@
 class Student 
 {
-public student()
+public Student()
 	{
 	System.out.println("hi");
 	}
