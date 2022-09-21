@@ -8,6 +8,7 @@ public Student()
 	{
 		System.out.println("hello...!");
 		System.out.println("Hiii");
+                System.out.println("1");
 	}
 	public static void main (String[]args)
 	{
